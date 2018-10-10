@@ -1,2 +1,3 @@
 # ECGR-Simon
-Repository to contain Section 2, team 11's project code for game: Simon
+Code written using OnlineGBD
+Code written in C++ '17
